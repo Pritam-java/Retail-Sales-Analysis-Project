@@ -35,13 +35,3 @@ total_sale: Total revenue generated from the sale
 2.Develop loyalty programs for top customers to enhance retention.
 3.Optimize stock and staffing based on time-based order patterns (e.g., Morning Shift).
 4.Target younger demographics with customized offers.
-
-**PROJECT STRUCTURE**
-Retail-Sales-Data-Analysis/
-│
-├── retail_sales_data.csv          # Input dataset  
-├── queries.sql                    # SQL queries for analysis  
-├── insights.md                    # Analytical findings and insights  
-├── recommendations.md             # Business suggestions  
-├── README.md                      # Project overview  
-└── visuals/                       # Folder for charts and graphs  
